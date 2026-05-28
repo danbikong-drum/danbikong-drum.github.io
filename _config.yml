@@ -108,8 +108,9 @@ comments:
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
+    
   # Giscus options › https://giscus.app
-    giscus:
+  giscus:
     repo: danbikong-drum/danbikong-drum.github.io
     repo_id: R_kgDOSpLj7w
     category: Announcements
