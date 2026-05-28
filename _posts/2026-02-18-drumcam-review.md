@@ -5,19 +5,10 @@ categories: [청년부]
 tags: [오륜교회, 청년5부, drum-cam]
 ---
 
-> 🎵 [🥁 Young Adult Worship | 청년 5부 아이네오 드럼캠 플레이리스트](https://www.youtube.com/playlist?list=PLcNXsaPiDmQGqML9JCgo_an2Bcex1Nrso)
-
 ## 🎬 연주 영상
-
-<iframe width="100%" height="400"
-  src="https://www.youtube.com/embed/yW6nafuBl_0"
-  title="🥁 오륜교회 청년 5부 드럼캠 | 일어나 그 빛 비추라 | 빛의 사자들이여 | 함께 지어져 가네 | Drum Cam"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
 > 📅 업로드일: 2026-02-18 · ⛪ 오륜교회 청년 5부 아이네오
+> 
+{% include embed/youtube.html id='yW6nafuBl_0' %}
 
 **타임라인**
 - [00:00 일어나 그 빛 비추라](https://youtu.be/yW6nafuBl_0?t=0)
@@ -28,7 +19,8 @@ tags: [오륜교회, 청년5부, drum-cam]
 
 ## 🥁 1. 일어나 그 빛 비추라 (00:00)
 > BPM: 62
-> Reference: https://youtu.be/kKa2Xw2khCY?si=Z1Pe_g7v0lWE9PZ_
+> Reference
+{% include embed/youtube.html id='kKa2Xw2khCY?si=Z1Pe_g7v0lWE9PZ_' %}
 
 ### Notes
 
