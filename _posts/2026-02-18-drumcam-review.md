@@ -20,7 +20,7 @@ tags: [오륜교회, 청년5부, drum-cam]
 ## 🥁 1. 일어나 그 빛 비추라 (00:00)
 > BPM: 62
 > Reference
-{% include embed/youtube.html id='kKa2Xw2khCY?si=Z1Pe_g7v0lWE9PZ_' %}
+{% include embed/youtube.html id='kKa2Xw2khCY' %}
 
 ### Notes
 
@@ -28,7 +28,9 @@ tags: [오륜교회, 청년5부, drum-cam]
 
 ## 🥁 2. 빛의 사자들이여 (03:38)
 > BPM: 100
-> Reference: https://youtu.be/8EX3xQ5JbKQ?si=5ze9yU-5dTpaFta3
+> Reference
+
+{% include embed/youtube.html id='8EX3xQ5JbKQ' %}
 
 ### Notes
 
@@ -37,7 +39,8 @@ tags: [오륜교회, 청년5부, drum-cam]
 ## 🥁 3. 함께 지어져 가네 (06:46)
 
 > BPM: 61
-> Reference: https://youtu.be/TtH4qHWdTto?si=Ta8QGwbc5mza48Cp
+> Reference
+{% include embed/youtube.html id='TtH4qHWdTto' %}
 
 ### Notes
 
