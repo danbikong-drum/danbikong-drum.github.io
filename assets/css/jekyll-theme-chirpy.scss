@@ -1,0 +1,14 @@
+---
+---
+@import "main";
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+/* 본문 영역 제목에만 적용 (사이드바 제목 제외) */
+#core-wrapper h1,
+#core-wrapper h2,
+#core-wrapper h3,
+#core-wrapper h4 {
+  font-family: 'Black Han Sans', 'Noto Sans KR', sans-serif;
+  letter-spacing: -0.01em;
+}
