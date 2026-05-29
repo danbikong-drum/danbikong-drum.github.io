@@ -3,27 +3,6 @@
 
 @import "main";
 
-/* ── 드럼 로그 팔레트 ── */
-:root {
-  --main-bg: #f5f0e8;          /* 종이색 배경 */
-  --mask-bg: #ede8df;          /* 블록 배경 */
-  --text-color: #1a1a1a;       /* 본문 글자 */
-  --heading-color: #1a1a1a;    /* 제목 */
-  --text-muted-color: #8a7f72; /* 흐린 글자 */
-  --link-color: #c8392b;       /* 링크/포인트 빨강 */
-  --main-border-color: #d4cfc6;/* 테두리 선 */
-  --card-bg: #ede8df;          /* 카드 배경 */
-  --sidebar-bg: #ede8df;       /* 사이드바 */
-  --btn-box-shadow: none;
+html:not([data-mode="dark"]) {
+  --main-bg: #f5f0e8;
 }
-
-/* ── 제목 폰트 (Black Han Sans) ── */
-@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
-
-h1, h2, h3, .site-title {
-  font-family: 'Black Han Sans', sans-serif !important;
-  letter-spacing: -0.01em;
-}
-
-/* 포인트 색 강조 */
-a:hover { color: #e67e22; }
