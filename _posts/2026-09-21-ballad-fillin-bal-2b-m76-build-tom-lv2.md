@@ -5,6 +5,8 @@ categories: [드럼필인]
 tags: [발라드, 드럼필인, 필인, musescore, 빌드업, BAL-2B-M76-BUILD-TOM-Lv2]
 ---
 
+🔗 [GitHub에서 원본 파일 보기](https://github.com/danbikong-drum/danbikong-drum.github.io/tree/main/drum-fillins/scores/BAL-2B-M76-BUILD-TOM-Lv2) — MuseScore 파일과 탭 원본을 모두 받을 수 있어요.
+
 ## 🧩 코드로 보는 이 필인
 
 | 축 | 값 |
