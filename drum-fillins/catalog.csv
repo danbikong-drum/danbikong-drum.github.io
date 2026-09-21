@@ -1,0 +1,6 @@
+code,bars,tempo_bpm,function,instrumentation,difficulty,status,source_type,permission_status,musescore_url,blog_url,created_date,notes
+BAL-1B-S65-TURN-SN-Lv1,1,65,TURN,SN,Lv1,example,original,n/a,,,,taxonomy.md 예시 행 - 실제 필인 추가 시 삭제하거나 덮어쓰기
+BAL-2B-M78-BUILD-TOM-Lv2,2,78,BUILD,TOM,Lv2,example,original,n/a,,,,taxonomy.md 예시 행 - 실제 필인 추가 시 삭제하거나 덮어쓰기
+BAL-3B-M82-BRDG-GN-Lv2,3,82,BRDG,GN,Lv2,example,original,n/a,,,,taxonomy.md 예시 행 - 실제 필인 추가 시 삭제하거나 덮어쓰기
+BAL-4B-U92-PREBRK-CR-Lv3,4,92,PREBRK,CR,Lv3,example,original,n/a,,,,taxonomy.md 예시 행 - 실제 필인 추가 시 삭제하거나 덮어쓰기
+BAL-4B-M76-END-TOM-Lv2,4,76,END,TOM,Lv2,example,original,n/a,,,,taxonomy.md 예시 행 - 실제 필인 추가 시 삭제하거나 덮어쓰기
