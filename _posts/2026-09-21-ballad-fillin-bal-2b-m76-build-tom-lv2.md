@@ -1,6 +1,6 @@
 ---
 title: "🥁 발라드 빌드업 필인 | BAL-2B-M76-BUILD-TOM-Lv2 | 2마디 탐 필인"
-date: 2026-09-21 21:00:00 +0900
+date: 2026-09-21 12:00:00 +0900
 categories: [드럼필인]
 tags: [발라드, 드럼필인, 필인, musescore, 빌드업, BAL-2B-M76-BUILD-TOM-Lv2]
 ---
