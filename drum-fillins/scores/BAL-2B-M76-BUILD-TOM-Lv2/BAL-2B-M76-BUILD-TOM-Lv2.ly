@@ -2,17 +2,25 @@
 
 #(set-global-staff-size 26)
 
-drumPattern = \drummode {
+drumsUp = \drummode {
   \time 4/4
-  <bd sn>4 sn8 bd8 sn4 tomh8 tommh8 |
-  tomh16 tommh16 tomfl16 tomfl16 sn16 sn16 sn16 sn16 tomfl16 tomfl16 sn16 sn16 sn16 sn16 <bd sn>8 |
+  \tempo 4 = 76
+  \voiceOne
+  sn4 sn4 sn4 \tweak staff-position 3 tomh8 tommh8 |
+  \tweak staff-position 3 tomh16 tommh16 tomfl16 tomfl16 sn16 sn16 sn16 sn16 tomfl16 tomfl16 sn16 sn16 sn16 sn16 sn8 |
+}
+
+drumsDown = \drummode {
+  \voiceTwo
+  \tweak staff-position -3 bd8 r4 \tweak staff-position -3 bd8 r2 |
+  r2 r4 r8 \tweak staff-position -3 bd8 |
 }
 
 \score {
-  \new DrumStaff {
-    \tempo 4 = 76
-    \drumPattern
-  }
+  \new DrumStaff <<
+    \new DrumVoice { \drumsUp }
+    \new DrumVoice { \drumsDown }
+  >>
   \layout {
     indent = 0
     ragged-right = ##f
